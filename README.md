@@ -3,8 +3,8 @@
 
 Updated at 2024.sep.21
 
-Be careful, you have to unzip the '.pbf.zip.001' file at '/data/r5rcore' before running the 'r5rcore()' function.
+Be careful with the following: you have to (i) install the [GTFSwizard](https://github.com/OPATP/GTFSwizard) package before running the scripts; and (ii) unzip the '.pbf.zip.001' file at '/data/r5rcore' before running the 'r5rcore()' function.
 
 
 
-M.Sc. Nelson de O. Quesado Filho & Dr. Fco. Moraes de Olieveira Neto
+Author: M.Sc. Nelson de O. Quesado Filho & Dr. Fco. Moraes de Olieveira Neto
