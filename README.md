@@ -7,4 +7,4 @@ Be careful with the following: you have to (i) install the [GTFSwizard](https://
 
 
 
-Authors: M.Sc. Nelson de O. Quesado Filho & Dr. Fco. Moraes de Olieveira Neto
+Authors: M.Sc. Nelson de O. Quesado Filho & Dr. Francisco Moraes de Oliveira Neto
